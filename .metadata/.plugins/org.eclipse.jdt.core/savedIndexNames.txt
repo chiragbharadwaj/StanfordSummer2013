@@ -1,0 +1,7 @@
+INDEX VERSION 1.127+C:\Users\Chirag Bharadwaj\Documents\GitHub\StanfordSummer2013\.metadata\.plugins\org.eclipse.jdt.core
+364384390.index
+2360426812.index
+1708319753.index
+316003487.index
+2346485029.index
+4223037866.index

@@ -1,0 +1,7 @@
+# Stanford Summer 2013
+
+In the summer of 2013, I attended the High School Summer College at Stanford University. I took CS 106a: Programming Methodology under Professor Nate Hardison and I also participated in a first-year organic chemistry class. Here are my six course projects from the summer. We learned programming paradigms and methodologies in Java, an object-oriented language. Projects included getting acquainted with the language with Eric Roberts' classic Karel the Robot, various GUI representations using awt.Swing (JavaFX had not come out yet), the classic game Breakout (another GUI), a GUI for a game of Hangman against the computer with a huge lexicon to choose from, an implementation of multiplayer Yahtzee! with yet another GUI, and a basic graph searcher of name popularities from a created database of names.
+
+I hope that these open-source solutions are of good public use. Please try your best to do the assignments for the class yourself if you are a current Stanford student (as the assignments vary only a little from quarter to quarter). After all, half the fun is finding the solution yourself!
+
+Please remember that these are my very first non-HTML attempts at programming, so mistakes certainly abound in my code. While I usually appreciate any help in fixing it (as I do here), please note that due to time constraints, I will likely not be able to get around to fixing this ages-old code for a while. Thank you!
